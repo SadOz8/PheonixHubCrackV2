@@ -391,25 +391,25 @@ local y = 10
 
             if name == "Lock Client Position" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Lock-client-position-2/refs/heads/main/Lock%202", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Lock-position/refs/heads/main/LockCrack", true))
                 if func then func() end
             end
 
 if name == "Tp 0 Rebiths" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/PheonixHub/Tp-0-Rebiths-/refs/heads/main/Tp", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp0/refs/heads/main/Tp0Crack", true))
                 if func then func() end
             end
 
 if name == "Tp 1 Rebith" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/PheonixHub/Tp-1-rebiths-/refs/heads/main/Tp", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-1/refs/heads/main/Tp1Crack", true))
                 if func then func() end
             end
 
 if name == "Tp 5 Rebiths" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/PheonixHub/Tp-portal-morado/refs/heads/main/Tp%20portal%20morado", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-5/refs/heads/main/Tp5Crack", true))
                 if func then func() end
             end
 
