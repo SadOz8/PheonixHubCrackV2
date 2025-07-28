@@ -469,12 +469,12 @@ end
          end
 
        if name == "Auto Fuerza Op" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Auto-fuerza-OP-2.0/refs/heads/main/Auto%20fuerza", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/FastStrenght/refs/heads/main/FastCrack", true))()
              if func then func() end
          end
 
         if name == "Hide Frame" then
-            local func =loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Hide-frame/refs/heads/main/Particulas", true))()
+            local func =loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Hide-Frame/refs/heads/main/HideFrameCrack", true))()
             if func then func() end
         end
 
@@ -781,7 +781,7 @@ if name == "Espectear" then
 end
 
           if name == "Anti AFK" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Anti-AFK-by-ALEJANDRO-/refs/heads/main/Anti%20AFK", true))
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Antiafk/refs/heads/main/AntiafkCrack", true))
              if func then func() end
          end
 end)
