@@ -506,7 +506,7 @@ if name == "Auto Kill All" then
 
 if name == "Auto Punch" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/PheonixHub/Auto-punch-remote/refs/heads/main/Auto%20punch", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Autopunch/refs/heads/main/AutoPunchCrack", true))
                 if func then func() end
             end
 
