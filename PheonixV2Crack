@@ -464,7 +464,7 @@ if name == "Tp king" then
 end
   
          if name == "Golpe Sin Animacion" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Fast-Rebith-/refs/heads/main/Fast%20rebith", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/FastRb/refs/heads/main/FastRbCrack", true))()
              if func then func() end
          end
 
@@ -479,22 +479,22 @@ end
         end
 
          if name == "Roca de 10m" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-10m/refs/heads/main/Roca%2010m", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Roca10m/refs/heads/main/10mCrack", true))()
              if func then func() end
          end
 
          if name == "Roca de 5k" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-de-5k/refs/heads/main/5k", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Roca5k/refs/heads/main/5kCrack", true))()
              if func then func() end
          end
 
         if name == "Roca de 5m" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-de-5m/refs/heads/main/5m", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Roca5m/refs/heads/main/5mCrack", true))()
              if func then func() end
          end
 
         if name == "Roca de 1m" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-de-1m/refs/heads/main/Roca%20de%201m", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Roca1m/refs/heads/main/1mCrack", true))()
              if func then func() end
          end
 
