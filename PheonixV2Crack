@@ -511,7 +511,7 @@ if name == "Auto Punch" then
             end
 
         if name == "Roca de 750k" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-de-750k/refs/heads/main/Roca%20de%20750k", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/750kroca/refs/heads/main/750krocaCrack", true))()
              if func then func() end
          end
 
@@ -521,7 +521,7 @@ if name == "Auto Punch" then
          end
 
         if name == "Roca de 150k" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-de-150k/refs/heads/main/Roca%20de%20150k", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/150kroca/refs/heads/main/150krocaCrack", true))()
              if func then func() end
          end
 
@@ -536,7 +536,7 @@ if name == "Auto Punch" then
          end
 
        if name == "Roca de 0" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-de-0-/refs/heads/main/Roca%20de%200%20dura", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/0rock/refs/heads/main/0rockCrack", true))()
              if func then func() end
          end
 
