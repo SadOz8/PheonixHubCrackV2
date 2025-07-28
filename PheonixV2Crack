@@ -515,23 +515,8 @@ if name == "Auto Punch" then
              if func then func() end
          end
 
-        if name == "Roca de 400k" then
-             local func = loadstring(game:HttpGet("", true))()
-             if func then func() end
-         end
-
         if name == "Roca de 150k" then
              local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/150kroca/refs/heads/main/150krocaCrack", true))()
-             if func then func() end
-         end
-
-        if name == "Roca de 100" then
-             local func = loadstring(game:HttpGet("", true))()
-             if func then func() end
-         end
-
-       if name == "Roca de 10" then
-             local func = loadstring(game:HttpGet("", true))()
              if func then func() end
          end
 
