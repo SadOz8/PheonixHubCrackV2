@@ -541,12 +541,12 @@ if name == "Auto Punch" then
          end
 
         if name == "Auto Fuerza" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Auto-fuerza-normal/refs/heads/main/Fuerza%20normal", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/FuerzaNormal/refs/heads/main/FuerzaNormalCrack", true))()
              if func then func() end
          end
 
         if name == "Ocultar Particulas" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Particulas/refs/heads/main/Particulas", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Particulas/refs/heads/main/ParticulasCrack", true))()
              if func then func() end
          end
 
