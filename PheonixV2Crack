@@ -433,7 +433,7 @@ if name == "Tp king" then
 
        if name == "Tp jungla gym" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://Tp-jungle/TpjungleCrack", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-jungle/refs/heads/main/TpjungleCrack", true))
                 if func then func() end
             end
 
@@ -667,7 +667,6 @@ if name == "Auto Kill Players" then
 end
 
 if name == "Espectear" then
-    -- Toggle existente
     if getgenv().SpectatePanel and getgenv().SpectatePanel.Parent then
         getgenv().SpectatePanel:Destroy()
         getgenv().SpectatePanel = nil
