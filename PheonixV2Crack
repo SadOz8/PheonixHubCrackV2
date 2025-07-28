@@ -70,7 +70,7 @@ local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "ALEJANDRO PAID CRACKED BY ZTX TEAM"
+ScreenGui.Name = "ALEJANDRO PAID CRACKED BY ZTX CLAN"
 pcall(function() ScreenGui.Parent = game.CoreGui end)
 
 local buttonStates = {}
@@ -102,7 +102,7 @@ local Title = Instance.new("TextLabel")
 Title.Size = UDim2.new(1, -30, 1, 0)
 Title.Position = UDim2.new(0, 10, 0, 0)
 Title.BackgroundTransparency = 1
-Title.Text = "PHEONIX HUB Cracked By Ztx Team"
+Title.Text = "PHEONIX HUB Cracked By Ztx Clan"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.Font = Enum.Font.GothamBold
 Title.TextSize = 20
@@ -133,8 +133,8 @@ local contentByTab = {
         "Roca de 5k", "Roca de 100", "Roca de 10", "Roca de 0"},
     ["Teleport"] = {"Tp 0 Rebiths", "Tp 1 Rebith", "Tp 5 Rebiths", "Tp 15 Rebiths", "Tp 30 Rebiths", "Tp king", "Tp jungla gym"},
     ["Creditos"] = {
-        "username: Demon_misteriousX",
-        "nombre: XxAlejandroxX"
+        "username: XXXX",
+        "nombre: ZTXONTOP"
     }
 }
 
@@ -321,9 +321,9 @@ btn:Destroy() end
             "Este Script fue creado por:",
             "username: Demon_misteriousX",
 
-            "Siganme en TikTok: @ztx_public e @WmFrv",
+            "Siganme en TikTok: @ztx_public",
 
-            "Gracias por comprar este Script Cracked by ZTX Team ",
+            "Gracias por comprar este Script Cracked by ZTX Clan",
 
             "Pronto mas Scrips como este y mas Op!"
         }
@@ -391,54 +391,54 @@ local y = 10
 
             if name == "Lock Client Position" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Lock-position/refs/heads/main/LockCrack", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Lock-position/main/LockCrack", true))
                 if func then func() end
             end
 
 if name == "Tp 0 Rebiths" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp0/refs/heads/main/Tp0Crack", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp0/main/Tp0Crack", true))
                 if func then func() end
             end
 
 if name == "Tp 1 Rebith" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-1/refs/heads/main/Tp1Crack", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-1/main/Tp1Crack", true))
                 if func then func() end
             end
 
 if name == "Tp 5 Rebiths" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-5/refs/heads/main/Tp5Crack", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-5/main/Tp5Crack", true))
                 if func then func() end
             end
 
 if name == "Tp 15 Rebiths" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-15/refs/heads/main/Tp15Crack", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-15/main/Tp15Crack", true))
                 if func then func() end
             end
 
 if name == "Tp 30 Rebiths" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-30/refs/heads/main/Tp30Crack", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-30/main/Tp30Crack", true))
                 if func then func() end
             end
 
 if name == "Tp king" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-king/refs/heads/main/TpkingCrack", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-king/main/TpkingCrack", true))
                 if func then func() end
             end
 
        if name == "Tp jungla gym" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-jungle/refs/heads/main/TpjungleCrack", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Tp-jungle/main/TpjungleCrack", true))
                 if func then func() end
             end
 
           if name == "Protein egg" then
-              local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Egg/refs/heads/main/EggCrack", true))()
+              local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Egg/main/EggCrack", true))()
               if func then func() end
           end
 
@@ -464,74 +464,74 @@ if name == "Tp king" then
 end
   
          if name == "Golpe Sin Animacion" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/FastRb/refs/heads/main/FastRbCrack", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/FastRb/main/FastRbCrack", true))()
              if func then func() end
          end
 
        if name == "Auto Fuerza Op" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/FastStrenght/refs/heads/main/FastCrack", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/FastStrenght/main/FastCrack", true))()
              if func then func() end
          end
 
         if name == "Hide Frame" then
-            local func =loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Hide-Frame/refs/heads/main/HideFrameCrack", true))()
+            local func =loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Hide-Frame/main/HideFrameCrack", true))()
             if func then func() end
         end
 
          if name == "Roca de 10m" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Roca10m/refs/heads/main/10mCrack", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Roca10m/main/10mCrack", true))()
              if func then func() end
          end
 
          if name == "Roca de 5k" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Roca5k/refs/heads/main/5kCrack", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Roca5k/main/5kCrack", true))()
              if func then func() end
          end
 
         if name == "Roca de 5m" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Roca5m/refs/heads/main/5mCrack", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Roca5m/main/5mCrack", true))()
              if func then func() end
          end
 
         if name == "Roca de 1m" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Roca1m/refs/heads/main/1mCrack", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Roca1m/main/1mCrack", true))()
              if func then func() end
          end
 
 if name == "Auto Kill All" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Stuffs-2/refs/heads/main/Crack7", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Stuffs-2/main/Crack7", true))
                 if func then func() end
             end
 
 if name == "Auto Punch" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Autopunch/refs/heads/main/AutoPunchCrack", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Autopunch/main/AutoPunchCrack", true))
                 if func then func() end
             end
 
         if name == "Roca de 750k" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/750kroca/refs/heads/main/750krocaCrack", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/750kroca/main/750krocaCrack", true))()
              if func then func() end
          end
 
         if name == "Roca de 150k" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/150kroca/refs/heads/main/150krocaCrack", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/150kroca/main/150krocaCrack", true))()
              if func then func() end
          end
 
        if name == "Roca de 0" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/0rock/refs/heads/main/0rockCrack", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/0rock/main/0rockCrack", true))()
              if func then func() end
          end
 
         if name == "Auto Fuerza" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/FuerzaNormal/refs/heads/main/FuerzaNormalCrack", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/FuerzaNormal/main/FuerzaNormalCrack", true))()
              if func then func() end
          end
 
         if name == "Ocultar Particulas" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Particulas/refs/heads/main/ParticulasCrack", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Particulas/main/ParticulasCrack", true))()
              if func then func() end
          end
 
@@ -766,7 +766,7 @@ if name == "Espectear" then
 end
 
           if name == "Anti AFK" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Antiafk/refs/heads/main/AntiafkCrack", true))
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/Antiafk/main/AntiafkCrack", true))
              if func then func() end
          end
 end)
