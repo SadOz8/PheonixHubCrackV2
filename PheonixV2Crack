@@ -740,7 +740,6 @@ if name == "Espectear" then
         if buttons[player] then buttons[player]:Destroy() buttons[player] = nil end
     end
 
-    -- BotÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n volver a mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­
     local function createReturnBtn()
         local b = Instance.new("TextButton")
         b.Size = UDim2.new(1, 0, 0, 36)
